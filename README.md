@@ -7,7 +7,3 @@ If yes: all should work correctly.
 
 If not: please apply the patch "core_change.patch"
 
-
-
-Licence MIT
-
