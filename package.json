@@ -1,0 +1,20 @@
+{
+    "name": "ep_vazco_restore",
+    "description": "Adds option to restore revision in timeslider. Needed api 1.2.11 ",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "cristo rabani",
+            "email": "cristo.rabani@gmail.com",
+            "url": "vazco.eu"
+        }
+    ],
+    "engines": {
+        "node": "*"
+    },
+    "dependencies": {
+      "ep_cristo_tools": ">= 0.1.x",
+      "underscore" : ">=1.3.1"
+    }
+
+}
