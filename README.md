@@ -6,6 +6,8 @@ Check if your version of etherpad contains restoreRevision() in <root_dir>/src/n
 If yes: all should work correctly.
 
 If not: please apply the patch "core_change.patch"
---------------------------------------------------------
+
+
+
 Licence MIT
 
